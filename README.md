@@ -1,5 +1,5 @@
 # HyperSerialPico
-Adalight serial port LED driver implementation for Raspberry Pi Pico RP2040.  
+Adalight serial port LED driver implementation for Raspberry Pi Pico RP2040.
 
 # Example of supported boards using Rp2040
 <p align="center"><img src="https://user-images.githubusercontent.com/69086569/236885968-baab51ba-a54b-4072-9a2a-cf867f2edb4b.png" width="250" height="250"/><img src="https://user-images.githubusercontent.com/69086569/236885360-dce9cfd7-92a8-43c6-911f-649325ee8a96.png" width="250" height="250"/></p>
